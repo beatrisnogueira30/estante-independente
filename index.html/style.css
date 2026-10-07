@@ -1,0 +1,36 @@
+*{
+margin: 0% auto;
+padding: 0%;
+box-sizing: border-box;
+}
+
+
+h1{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: 1px;
+    overflow: hidden;
+}
+
+
+/* -------- cabecalho ---------- */
+.home_cabecalho{
+    background-color: #F8F4EC;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.home_container{
+    /* background-color: aqua; */
+    max-width: 95%;
+    /* largura 95% */
+
+}
+
+header img{
+    width: 230px;
+
+}
