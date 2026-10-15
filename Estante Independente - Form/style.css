@@ -141,7 +141,7 @@ body {
 .container_main {
   display: grid;
   grid-template-columns: minmax(0, 415px) minmax(0, 558px);
-  column-gap: 81px;
+  column-gap: 230px;
   align-items: start;
   padding: 56px 0;
 }
